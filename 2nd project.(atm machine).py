@@ -1,6 +1,6 @@
 pin=int(input("enter your pin number:"))
 balance=10000
-if(pin==1770):
+if(pin==1234):
     print("your pin was correct")
     menu=input("withdraw/deposit/check balance:")
     if(menu=="withdraw"):
